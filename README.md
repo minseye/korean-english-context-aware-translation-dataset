@@ -40,6 +40,7 @@ Unlike sentence-level datasets, this dataset emphasizes **inter-sentential (cros
 ---
 
 ## 📂 **File Structure**
+```
 korean-english-context-aware-translation-dataset/
 │-- README.md                       # Description of the dataset and its usage
 │-- LICENSE                         # License file (to be determined)
@@ -50,3 +51,4 @@ korean-english-context-aware-translation-dataset/
 │   ├── idiom.csv
 │   ├── figurative_language.csv
 │   └── implicature.csv
+```
