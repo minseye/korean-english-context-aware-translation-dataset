@@ -5,7 +5,7 @@ This repository contains the dataset associated with the COLING 2025 accepted pa
 **"A Testset for Context-Aware LLM Translation in Korean-to-English Discourse Level Translation"**  
 *Minjae Lee¹, Youngbin Noh², Seung-Jin Lee²*  
 ¹ Korea University  
-² NCSOFT Corp.
+² NCSOFT
 
 ---
 
