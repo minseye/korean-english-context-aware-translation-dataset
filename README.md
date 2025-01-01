@@ -45,10 +45,10 @@ korean-english-context-aware-translation-dataset/
 │-- README.md                       # Description of the dataset and its usage
 │-- LICENSE                         # License file (to be determined)
 │-- dataset/                        # Dataset files for each linguistic phenomenon (will be available soon)
-│   ├── lexical_ambiguity.csv
-│   ├── zero_anaphora.csv
-│   ├── slang.csv
-│   ├── idiom.csv
-│   ├── figurative_language.csv
-│   └── implicature.csv
+│   ├── lexical_ambiguity.jsonl
+│   ├── zero_anaphora.jsonl
+│   ├── slang.jsonl
+│   ├── idiom.jsonl
+│   ├── figurative_language.jsonl
+│   └── implicature.jsonl
 ```
